@@ -5,11 +5,11 @@
   
 - 🔭 I’m currently working on **Banking Domain**
 
-- 🌱 I’m currently learning **Togaf and AWS.**
+- 🌱 I’m currently learning **Togaf, AWS, LangGraph and Agentic AI**
 
 - 📝 I regularly write articles on [https://medium.com/@shaikhjavedmail](https://medium.com/@shaikhjavedmail)
 
-- 💬 Ask me about **Java, Spring boot, Microservices, Graphql etc.**
+- 💬 Ask me about **Java, Spring boot, Microservices, Graphql, LangGraph, Agentic AI etc.**
 
 - 📫 How to reach me **shaikhjavedmail@gmail.com**
 
