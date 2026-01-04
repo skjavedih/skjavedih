@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Togaf, AWS, LangGraph and Agentic AI**
 
-- 📝 I regularly write articles on [https://medium.com/@shaikhjavedmail](https://medium.com/@shaikhjavedmail)
+- 📝 I regularly write articles on [https://javathoguths.com](https://medium.com/@shaikhjavedmail)
 
 - 💬 Ask me about **Java, Spring boot, Microservices, Graphql, LangGraph, Agentic AI etc.**
 
