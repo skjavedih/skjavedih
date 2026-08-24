@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my Github page!</h1>
-<h3 align="center">Lead Software Engineer → Software Architect → Distributed Systems → Cloud/AWS → AI</h3>
+<h3 align="center">Lead Software Engineer | Software Architect | 14+ Years | Distributed Systems | AWS | AI & GenAI</h3>
 
 -  I'm Javed, Solutions-oriented Lead Software Engineer with 13+ years of experience designing and
 building scalable distributed systems across Banking, Telecom, Logistics, and Enterprise
@@ -8,7 +8,9 @@ and high-performance backend platforms serving millions of users.
   
 - 🔭 I’m currently working on **Banking Domain**
 
-- 🌱 I’m currently learning **Togaf, AWS, LangGraph and Agentic AI**
+- 🏆 AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE [https://www.credly.com/users/javed-shaikh.1a258708] 
+
+- 🌱 I’m currently learning **AWS, LangGraph and Agentic AI**
 
 - 📝 I regularly write articles on [https://javathoguths.com](https://medium.com/@shaikhjavedmail)
 
