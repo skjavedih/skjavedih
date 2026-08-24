@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my Github page!</h1>
-<h3 align="center">A passionate backend developer from India, Enthusiastic in Business and Technical Architect.</h3>
+<h3 align="center">Lead Software Engineer → Software Architect → Distributed Systems → Cloud/AWS → AI</h3>
 
 -  I'm Javed, Solutions-oriented Lead Software Engineer with 13+ years of experience designing and
 building scalable distributed systems across Banking, Telecom, Logistics, and Enterprise
