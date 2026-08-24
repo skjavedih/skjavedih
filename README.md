@@ -1,22 +1,128 @@
-<h1 align="center">Hi 👋, Welcome to my Github page!</h1>
-<h3 align="center">Lead Software Engineer | Software Architect | 14+ Years | Distributed Systems | AWS | AI & GenAI</h3>
+# Javed Shaikh
 
--  I'm Javed, Solutions-oriented Lead Software Engineer with 13+ years of experience designing and
-building scalable distributed systems across Banking, Telecom, Logistics, and Enterprise
-domains. Specialized in cloud-native architecture, microservices, event-driven systems,
-and high-performance backend platforms serving millions of users.
-  
-- 🔭 I’m currently working on **Banking Domain**
+### Lead Software Engineer | Software Architect | Full Stack Engineering Leader
 
-- 🏆 AWS CERTIFIED SOLUTIONS ARCHITECT – ASSOCIATE [https://www.credly.com/users/javed-shaikh.1a258708] 
+**14+ Years of Experience** in Software Engineering, System Design, Distributed Systems, Cloud Computing, and Technical Leadership.
 
-- 🌱 I’m currently learning **AWS, LangGraph and Agentic AI**
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/users/javed-shaikh.1a258708)
 
-- 📝 I regularly write articles on [https://javathoguths.com](https://medium.com/@shaikhjavedmail)
+---
 
-- 💬 Ask me about **Java, Spring boot, Microservices, Graphql, LangGraph, Agentic AI etc.**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **shaikhjavedmail@gmail.com**
+Lead Software Engineer and Software Architect with **14+ years of hands-on experience** designing, developing, and delivering scalable enterprise software across **Banking, Telecom, Logistics, and distributed systems**.
+
+I specialize in **System Design, Software Architecture, Distributed Systems, Microservices, Event-Driven Architecture, Cloud Computing, Full Stack Engineering, and high-performance backend platforms**.
+
+I have worked on enterprise platforms serving **millions of users and high-volume transactions**, with a strong focus on scalability, reliability, security, performance, and maintainability.
+
+I am also actively working at the intersection of **Software Engineering and Generative AI**, exploring and implementing **LLM integrations, AI Agents, Spring AI, LangGraph, Prompt Engineering, and AI-driven automation**.
+
+---
+
+## 🏆 AWS Certification
+
+### AWS Certified Solutions Architect – Associate
+
+☁️ Certified in designing **secure, scalable, highly available, and cost-effective solutions on AWS**.
+
+**Credential:** [Verify my AWS Certification](YOUR_CREDLY_URL)
+
+---
+
+## 🏗️ Architecture & System Design
+
+- System Design & Architecture
+- Distributed Systems
+- Microservices Architecture
+- Event-Driven Architecture
+- Cloud-Native Architecture
+- Serverless Architecture
+- Multi-Tier Architecture
+- High Availability & Disaster Recovery
+- Scalability & Reliability
+- Performance Engineering
+- Caching & Data Optimization
+- REST & GraphQL APIs
+
+---
+
+## ☁️ Cloud & DevOps
+
+- Amazon Web Services (AWS)
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- DevOps Practices
+- Cloud Architecture
+- Monitoring & Observability
+- Production Support
+
+---
+
+## 💻 Core Technology Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Framework
+- Microservices
+- REST APIs
+- GraphQL
+
+### Messaging & Distributed Systems
+- Apache Kafka
+- Redis
+- Event-Driven Systems
+- Message Queues
+
+### Databases
+- PostgreSQL
+- Oracle
+- Couchbase
+- SQL
+- NoSQL
+
+### Frontend & Full Stack
+- JavaScript
+- React
+- HTML
+- CSS
+
+---
+
+## 🤖 AI & Generative AI
+
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Spring AI
+- LangGraph
+- AI Agents
+- LLM Integrations
+- N8N Automation
+- AI-Assisted Software Development
+- GitHub Copilot
+- Cursor AI
+- Devin AI
+- Antigravity
+
+---
+
+## 🚀 Engineering Focus
+
+```text
+Software Architecture
+        ↓
+System Design
+        ↓
+Distributed Systems
+        ↓
+Cloud & AWS
+        ↓
+Full Stack Engineering
+        ↓
+AI & Intelligent Automation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
