@@ -26,7 +26,7 @@ I am also actively working at the intersection of **Software Engineering and Gen
 
 ☁️ Certified in designing **secure, scalable, highly available, and cost-effective solutions on AWS**.
 
-**Credential:** [Verify my AWS Certification](YOUR_CREDLY_URL)
+**Credential:** [Verify my AWS Certification](https://www.credly.com/users/javed-shaikh.1a258708)
 
 ---
 
