@@ -2,7 +2,7 @@
 
 ### Lead Software Engineer | Software Architect | Full Stack Engineering Leader
 
-**14+ Years of Experience** in Software Engineering, System Design, Distributed Systems, Cloud Computing, and Technical Leadership.
+**11+ Years of Experience** in Software Engineering, System Design, Distributed Systems, Cloud Computing, and Technical Leadership.
 
 [![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-orange?logo=amazonaws&logoColor=white)](https://www.credly.com/users/javed-shaikh.1a258708)
 
