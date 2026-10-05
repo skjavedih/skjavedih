@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Lead Software Engineer and Software Architect with **14+ years of hands-on experience** designing, developing, and delivering scalable enterprise software across **Banking, Telecom, Logistics, and distributed systems**.
+Lead Software Engineer and Software Architect with **11+ years of hands-on experience** designing, developing, and delivering scalable enterprise software across **Banking, Telecom, Logistics, and distributed systems**.
 
 I specialize in **System Design, Software Architecture, Distributed Systems, Microservices, Event-Driven Architecture, Cloud Computing, Full Stack Engineering, and high-performance backend platforms**.
 
